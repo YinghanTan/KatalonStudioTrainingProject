@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MySQL SQL</name>
+   <tag></tag>
+   <elementGuidId>111f63c0-843b-4761-ad46-f1ea48c8ecc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#leftmenuinnerinner > a:nth-of-type(4)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='leftmenuinnerinner']/a[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>745e8dd6-eeae-4dca-95c9-f86af530a673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_top</value>
+      <webElementGuid>986fb38e-5296-4264-a6e2-e6ba18717a98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>mysql_sql.asp</value>
+      <webElementGuid>84097287-67a4-4613-987f-ec373b7b1a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MySQL SQL</value>
+      <webElementGuid>0d56932f-0246-479d-a590-f67abb29a7d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leftmenuinnerinner&quot;)/a[4]</value>
+      <webElementGuid>9d1a75e5-87f3-4ffd-8015-a4a453e19d79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='leftmenuinnerinner']/a[4]</value>
+      <webElementGuid>6502f3cb-7095-43b4-b02d-2c800fbe017f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MySQL SQL')]</value>
+      <webElementGuid>0ba45ee7-2e72-41ed-a179-4d5f60712553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MySQL'])[4]/following::a[1]</value>
+      <webElementGuid>35ee8515-54ab-4717-b68e-da73a753d2c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MySQL SELECT'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d210907-50d7-42a8-9777-f92b1fe3e595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MySQL WHERE'])[1]/preceding::a[2]</value>
+      <webElementGuid>979c0de3-09be-4596-9f5a-7d0f1a3c5f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MySQL SQL']/parent::*</value>
+      <webElementGuid>e9316881-67ad-4052-9ced-8c29f6bb3d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'mysql_sql.asp')]</value>
+      <webElementGuid>bea30c36-1193-47f5-8577-21e2ef7a9bad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a[4]</value>
+      <webElementGuid>b5bf62be-1976-47d1-b2d4-72dc5576ea29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'mysql_sql.asp' and (text() = 'MySQL SQL' or . = 'MySQL SQL')]</value>
+      <webElementGuid>ca9b1d27-d795-481d-adcb-181b647bd926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
